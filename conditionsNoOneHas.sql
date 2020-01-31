@@ -1,4 +1,4 @@
-/* Conditions Our Population DOESN'T Have */
+/* Conditions Our Population DOESN'T Have; 266,515 rows */
 
 SELECT c.concept_id, c.concept_name, c.domain_id 
 FROM concept c 
