@@ -17,7 +17,7 @@ SELECT
 		WHEN TRIM(state) IN ('IL','IN','MI','OH','WI') THEN 'East North Central'
 		WHEN TRIM(state) IN ('IA','KS','MN','MO','NE','ND','SD') THEN 'West North Central'
 		WHEN TRIM(state) IN ('DE','FL','GA','MD','NC','SC','VA','DC','WV') THEN 'South Atlantic'
-		WHEN TRIM(state) IN ('AL','KY','MI','TN') THEN 'East South Central'
+		WHEN TRIM(state) IN ('AL','KY','MS','TN') THEN 'East South Central'
 		WHEN TRIM(state) IN ('AR','LA','OK','TX') THEN 'West South Central'
 		WHEN TRIM(state) IN ('AZ','CO','ID','MT','NV','NM','UT','WY') THEN 'Mountain'
 		WHEN TRIM(state) IN ('AK','CA','HI','OR','WA') THEN 'Pacific'
