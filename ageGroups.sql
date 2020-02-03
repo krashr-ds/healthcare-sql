@@ -1,4 +1,4 @@
-/* Lots of Old VERY People */
+/* Lots of VERY Old People */
 
 SELECT AGroup, Count(*) FROM ( 
   SELECT
