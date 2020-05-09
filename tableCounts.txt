@@ -1,0 +1,37 @@
+OMOP SAMPLE DATABASE, LARGE ;
+TERMS, LARGE
+
+OMOP TABLE NAME / COUNT;
+achilles_analysis	215
+achilles_heel_results	31
+achilles_results	2577398
+achilles_results_derived	190
+achilles_results_dist	137308
+care_site	239153
+cdm_source	1
+condition_era	10150726
+condition_occurrence	14803406
+cost	37169949
+death	5461
+device_exposure	224499
+drug_era	6251166
+drug_exposure	6294108
+location	3088
+measurement	3387775
+observation	1925159
+observation_period	104891
+payer_plan_period	389231
+person	116352
+procedure_occurrence	13857192
+provider	631920
+visit_occurrence	5579542
+
+TERMS TABLE NAME / COUNT;
+concept	4075186
+concept_ancestor	121111843
+concept_class	300
+concept_relationship	27457992
+concept_synonym	5491313
+domain	39
+relationship	410
+vocabulary	42
